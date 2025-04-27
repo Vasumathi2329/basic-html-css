@@ -41,8 +41,7 @@ table{
             background-color: #f1f1f1;
             border: 1px solid black;
             margin-left:20px;
-            
-        }
+             }
 th, td {
             padding: 12px;
             text-align: left;
@@ -50,9 +49,8 @@ th, td {
 .link{
             display:inline;
             padding-left: 20px;
-            
-     }  
-    
+           }  
+
     
       
     
